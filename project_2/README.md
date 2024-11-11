@@ -52,6 +52,6 @@ void loop() {
 
 ### شماتیک مدار 
 
-![pic schematic](/pic/schematic_2.jpg)
+![pic schematic](/pic/schematic_1.jpg)
 
 
