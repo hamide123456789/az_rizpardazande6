@@ -6,16 +6,6 @@
 
 ---
 
-### الگوی چینش LED ها در سون سگمنت 📍
-
-<br>
-
-<div align="center">
-<img src="/media/7segment-pinout.png" width="200px" height="400px">
-</div>
-
----
-
 ### کد برنامه
 
 ```cpp
@@ -54,18 +44,14 @@ void loop() {
 
 ### تصویر مدار
 
-<br>
+![pic micro](/pic/microprocessor1.jpg)
+![pic micro](/pic/microprocessor1_2.jpg)
 
-<div align="center">
-<img src="/pic/microprocessor_1.jpg">
-</div>
 
 ---
 
 ### شماتیک مدار 
 
-<br>
 
-<div align="center">
-<img src="/pic/schematic_1.jpg" width="600px" height="300px">
-</div>
+![pic schematic](/pic/schematic_1.jpg)
+
